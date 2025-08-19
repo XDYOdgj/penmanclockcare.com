@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://penmanclockcare.com/sitemap.xml
